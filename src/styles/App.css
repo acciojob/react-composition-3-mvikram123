@@ -1,1 +1,18 @@
+.tooltip{
 
+    width: 100px;
+    height: 75px;
+    border-radius: 2px;
+    background-color: red;
+}
+
+
+.tooltiptext{
+
+    width: 100px;
+    height: 75px;
+    border-radius: 2px;
+    background-color: red;
+
+
+}
